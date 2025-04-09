@@ -4,6 +4,7 @@
 List dependencies or software that users need to have installed before running your project.
 * Node.js (version >= 22.14.0)
 * npm (version >= 10.9.0)
+* MongoDB [Add your MongoDB URI to .env file]
 
 ### Installation
 
